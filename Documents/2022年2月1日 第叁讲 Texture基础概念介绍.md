@@ -30,7 +30,7 @@
 
 ​		如下图为未压缩、ETC2、ASTC6x6三种格式文件大小对比，我们可以看到在质量相差不大的情况下ASTC6x6压缩下大小可以减少到接近未压缩的十分之一。
 
-![3](/Users/haibowang/Downloads/MyProjects/Unity2022_SUNTAIL_Stylized_Fantasy_Village_Optimization/Documents/Pics/3.png)
+![3](./Pics/3.png)
 
 #### 纹理图集
 
